@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "20210127193236!Fenerbahçe_SK.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "20210127193236!Fenerbahçe_SK@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "20210127193236!Fenerbahçe_SK@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
